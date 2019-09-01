@@ -1,0 +1,44 @@
+a{
+	/*color:#333;*/
+	border:4.5px solid #7CFC00;
+	color:#FFF;
+	background:none;
+	padding:10px 20px;
+	text-decoration:none;
+	border-radius: 1.5em;
+	margin:.2em .2em;
+    display:inline-block;
+    font-family: forte;
+
+	margin-left: 40px;
+	margin-right: 20px;
+	margin-bottom: 90px;
+	margin-top:80px;
+}
+img:hover{
+	border-width: 5px;
+	border-color:#fff;
+}
+
+img{
+	margin-top: 2rem;
+	border-radius: 3.1em;
+	border:2px solid #333;
+	max-width: 900px;
+	 max-height: 300px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom:auto;
+	
+   
+}
+
+body{
+	background:#000000;
+	 
+
+}
+
+	
+

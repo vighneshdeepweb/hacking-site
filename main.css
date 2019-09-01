@@ -1,0 +1,143 @@
+body{
+	left: 0;
+	right: 0;
+	top: 0;
+	bottom: 0;
+	margin: 0;
+	padding: 0;
+    width:100%;
+    background-image: url(https://imagizer.imageshack.com/img921/9025/fd3vTs.jpg);
+    background-position: centre centre;
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-size:1300px 1050px;
+
+    
+    
+
+   
+}
+
+
+
+
+img{
+	margin-top: 2rem;
+	border-radius: 3.1em;
+	border:2px solid #333;
+	max-width: 900px;
+	 max-height: 300px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	
+   
+}
+
+img:hover{
+	border-width: 5px;
+	border-color:#ffb300;
+}
+
+h1{
+	font-size:5em;
+	text-align: left;
+	font-family:Cooper;
+	color: yellow;
+
+}
+
+p{
+	font-size: 2.3em;
+	text-align: left;
+	font-family: Engravers MT;
+	color: white;
+	
+}
+p:hover{
+	border-color:#ffb300;
+	border-width: 3px;
+}
+
+p.desc{
+	font-size:1.7em;
+	line-height:1.6em;
+	padding:.2em 10em;
+	font-weight:400;
+	font-family: Arial;
+	color:#00FFFF;
+	text-align: left;
+	font-display:left;
+}
+
+a{
+	/*color:#333;*/
+	border:4.5px solid #7CFC00;
+	color:#000080;
+	background:none;
+	padding:10px 20px;
+	text-decoration:none;
+	border-radius: 3.1em;
+	margin:.3em .2em;
+    display:inline-block;
+    font-family: forte;
+
+	margin-left: 60px;
+	margin-right: 20px;
+	
+
+
+}
+
+
+.hero{
+	
+	
+	background-image:(https://imagizer.imageshack.com/img922/3861/BtPCjn.jpg);
+    background-repeat: no repeat;
+    background-position: centre;
+    background-size: cover;
+    background-attachment: fixed;
+    color: #fff;
+    text-align: centre;
+    min-height: 100vh;
+    font-family: Arial;
+    background-position: right top;
+  background-attachment: scroll;
+    /*overflow: hidden;*/ 
+}
+
+
+.left{
+	margin-right: .3em;
+	top: .07em;
+	position: relative;
+	font-size: 1.2em;
+}
+
+.hero-bg{
+	padding: 2.4em;
+	min-height: 100vh;
+	/* background: rgba(255, 179, 0, .8); */
+	/* background: -webkit-linear- gradient( to right, rgba( 51, 51, 51, .8), rgba( 255, 179, 0, .8));*/
+	/*background:linear-gradient(to right, rgba(51, 51, .8), rgba(255,179,0,.8));*/
+	background-color:;
+	;
+	
+	
+	
+	
+	}
+
+	@media(min-width: 300px) and (max-width: 800px)
+    
+	 
+	 {
+		p.desc {
+			padding: .8em;
+		}
+	img{
+		max-width: 300px;
+	}
+}
+}
